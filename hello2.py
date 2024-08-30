@@ -1,3 +1,3 @@
 from hello import drink;
 
-drink('Lemon Tea');
+drink(6*7,8*9);
